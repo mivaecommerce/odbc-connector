@@ -10,7 +10,7 @@ You will need to copy the following [API](https://www.miva.com/support/downloads
 1. mivapi.h
 1. MivAPI.lib
 
-Upon build completion you can add **MVDODBC.DLL** to your list of valid databases in either IIS / Mia.
+Upon build completion you can add **MVDODBC.dll** to your list of valid databases in either IIS / Mia.
 
 ## Testing
 Download and configure an ODBC connector, such as MySQL's connector located at [https://dev.mysql.com/downloads/connector/odbc/](https://dev.mysql.com/downloads/connector/odbc/).  Setup a connection to a database server and then you can begin testing with a simple script such as:
