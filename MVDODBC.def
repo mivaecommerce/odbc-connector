@@ -1,0 +1,7 @@
+; ODBC.def : Declares the module parameters.
+
+LIBRARY      "MVDODBC.DLL"
+
+EXPORTS
+	miva_database_library
+
